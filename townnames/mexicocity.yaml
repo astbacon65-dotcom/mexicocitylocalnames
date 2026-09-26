@@ -5,35 +5,35 @@ mainset:
   - name: Alvaro Obregon
     probability: 1
   - name: Azcapotzalco
-    probability: 1
+    probability: 2
   - name: Benito Juarez
-    probability: 1
+    probability: 3
   - name: Coyoacan
-    probability: 1
+    probability: 4
   - name: Cuajimalpa
-    probability: 1
+    probability: 5
   - name: Cuauhtemoc
-    probability: 1
+    probability: 6
   - name: Gustavo A Madero
-    probability: 1
+    probability: 7
   - name: Iztacalco
-    probability: 1
+    probability: 8
   - name: Iztapalapa
-    probability: 1
+    probability: 9
   - name: Magdalena Contreras
-    probability: 1
+    probability: 10
   - name: Miguel Hidalgo
-    probability: 1
+    probability: 11
   - name: Milpa Alta
-    probability: 1
+    probability: 12
   - name: Tlahuac
-    probability: 1
+    probability: 13
   - name: Tlalpan
-    probability: 1
+    probability: 14
   - name: Venustiano Carranza
-    probability: 1
+    probability: 15
   - name: Xochimilco
-    probability: 1
+    probability: 16
 name: MexicoCity
 source: null
 subsets: []
